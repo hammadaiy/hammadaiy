@@ -1,4 +1,4 @@
-[![MasterHead](file:///C:/Users/hamad/Downloads/Information%20technology.png)]
+[![MasterHead](https://github.com/hammadaiy/hammadaiy/blob/main/Information%20technology.png)]
 <h1 align="center">Hi 👋, I'm Hamad Ullah</h1>
 <h3 align="center">Pursuing Bachelor's in IT</h3>,
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/11289837/work_from_hom_size.gif">
