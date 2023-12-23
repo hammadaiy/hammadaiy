@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Java** and **CSS**
 
-- 💬 Ask me about **Python**
-
 - 📫 Reach me **hamadull@uef.fi**
 
 - ⚡ Fun fact **Love talking about Football**
