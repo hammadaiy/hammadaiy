@@ -6,7 +6,7 @@
 <h1 align="left">👋 Moi! Nice to see you.</h1>
 <h6 align="left">Enthusiastic Information Technology student at the University of Eastern Finland, I'm on a mission to master the digital realm. With a love for technology, I'm immersing myself in the world of coding, software development, cybersecurity, and data analysis. But that's not all—I'm also a passionate photographer, capturing moments and stories through my lens, and a dedicated blogger, sharing insights on the synergy between tech and daily life. Striving to find the perfect balance between the analytical and the creative, I believe in pushing boundaries and embracing innovation. Let's connect and collaborate to shape the future of technology, one pixel and one line of code at a time!</h6>
 
-- 🌱 I’m currently learning **Java** and **CSS**
+- 🌱 I’m currently learning **Javascript** and **React JS**
 
 - 📫 Reach me **hamadull@uef.fi**
 
