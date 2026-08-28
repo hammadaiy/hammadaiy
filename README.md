@@ -53,11 +53,6 @@ just to speed up typing.
 
 ---
 
-## GitHub stats
-
-![Hamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadaiy&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadaiy&layout=compact&hide_border=true)
-
 ---
 
 ## Outside of code
