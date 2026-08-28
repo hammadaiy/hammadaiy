@@ -53,8 +53,3 @@ just to speed up typing.
 
 ---
 
----
-
-## Outside of code
-
-Photography, football, and slowly learning Finnish (currently around A2).
