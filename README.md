@@ -7,7 +7,7 @@ Recently graduated with a BSc in Information Technology (Computer Science major,
 Science minor) from the University of Eastern Finland. Currently open to full-stack and
 mobile developer roles.
 
-**Portfolio:** [hamadullah.dev](https://hamadullah.dev)
+**Portfolio:** [my-portfolio-three-henna-97.vercel.app](https://my-portfolio-three-henna-97.vercel.app/)
 **LinkedIn:** [linkedin.com/in/hammadaiy](https://www.linkedin.com/in/hammadaiy/)
 
 ---
@@ -53,3 +53,13 @@ just to speed up typing.
 
 ---
 
+## GitHub stats
+
+![Hamad's GitHub stats](https://github-stats-extended.vercel.app/api?username=hammadaiy&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=hammadaiy&layout=compact&hide_border=true&langs_count=8)
+
+---
+
+## Outside of code
+
+Photography, football, and slowly learning Finnish (currently around A2).
