@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=26&duration=3000&pause=1000&color=E8E6E1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hamad+Ullah;Full-stack+%26+Mobile+Developer;Building+with+AI+in+Espoo%2C+Finland" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-3D5A40?style=for-the-badge&logo=vercel&logoColor=white)](https://hamadullah.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammadaiy/)
@@ -90,10 +89,6 @@ context-window management.
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,azure,figma&theme=dark" />
 
-*A few tools I use daily don't have dedicated icons yet: React Native, Expo, Celery,
-pytest-asyncio, and Microsoft Entra ID. Listed as text above where relevant.*
-
-I use AI-assisted tools, Claude Code, Cursor, Copilot, as part of my actual workflow.
 
 <br>
 
@@ -110,4 +105,4 @@ I use AI-assisted tools, Claude Code, Cursor, Copilot, as part of my actual work
 
 ## Outside of code
 
-Photography, football, and slowly learning Finnish (currently around A2).
+Photography, football, and learning Finnish (currently at A2 level).
