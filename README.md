@@ -1,64 +1,112 @@
-# Hamad Ullah
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=26&duration=3000&pause=1000&color=E8E6E1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hamad+Ullah;Full-stack+%26+Mobile+Developer;Building+with+AI+in+Espoo%2C+Finland" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-3D5A40?style=for-the-badge&logo=vercel&logoColor=white)](https://hamadullah.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammadaiy/)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20work-B5451B?style=for-the-badge)](https://www.linkedin.com/in/hammadaiy/)
+
+</div>
+
+<br>
 
 Full-stack and mobile developer based in Espoo, Finland. I build systems where AI does
-real work, resume analysis, automated pipelines, alongside production backends and interfaces.
+real work, resume analysis, automated pipelines, alongside production backends and
+interfaces. Recently graduated with a BSc in Information Technology (Computer Science
+major, Data Science minor) from the University of Eastern Finland.
 
-Recently graduated with a BSc in Information Technology (Computer Science major, Data
-Science minor) from the University of Eastern Finland. Currently open to full-stack and
-mobile developer roles.
+<br>
 
-**Portfolio:** [my-portfolio-three-henna-97.vercel.app](https://my-portfolio-three-henna-97.vercel.app/)
-**LinkedIn:** [linkedin.com/in/hammadaiy](https://www.linkedin.com/in/hammadaiy/)
+## What I'm building
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## What I'm working on
+**[ResumeRadar](https://github.com/hammadaiy/ResumeRadar)**
+[Live](https://resumeradar-ai.vercel.app/) · Personal project
 
-- **[ResumeRadar](https://github.com/hammadaiy/ResumeRadar)** ([live](https://resumeradar-ai.vercel.app/))
-  Full-stack resume analysis platform. Uses an LLM to score a resume against a target job
-  description and generate structured feedback. FastAPI backend with Celery and Redis
-  handling analysis as a background job so requests return fast.
+Uses an LLM to score a resume against a target job description and generate
+structured, section-by-section feedback. FastAPI backend, with Celery and
+Redis handling analysis as a background job.
 
-- **[JobRadar](https://github.com/hammadaiy/JobRadar)**
-  Built this because I was spending an hour a day manually checking job boards and losing
-  track of applications. It scrapes job listings on a cron schedule, scores each one against
-  my CV using an LLM (Groq Llama 3.3 70B), and generates tailored cover letters. Tracks
-  everything on a Kanban board with a daily Telegram digest of top matches.
+`Next.js` `TypeScript` `FastAPI` `PostgreSQL` `Celery` `Redis`
 
-- **MotoSafe**, lone-worker safety app for Motoajo
-  Built in an 8-person Scrum team across 11 sprints. React Native app that monitors lone
-  forestry machine operators and raises alerts if check-ins stop arriving. I owned backend
-  authentication (Microsoft Entra ID) and the server-side alerting pipeline (Supabase Edge
-  Functions, Twilio, pg_cron). Client project, code is private.
+</td>
+<td width="50%" valign="top">
 
-- **[ChatSphere](https://github.com/hammadaiy/ChatSphere)**
-  A ChatGPT-style interface built against a locally hosted LLM through LM Studio. First
-  hands-on project with token-by-token streaming and context-window management.
+**[JobRadar](https://github.com/hammadaiy/JobRadar)**
+Personal project
 
----
+Built because I was losing track of applications and rewriting cover letters
+from scratch. Scrapes job boards on a cron schedule, scores listings against
+my CV with an LLM, and generates tailored cover letters.
+
+`Python` `FastAPI` `Supabase` `Groq` `Playwright`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**MotoSafe**
+Client project · Motoajo
+
+Lone-worker safety app built in an 8-person Scrum team. Monitors forestry
+machine operators and raises alerts if check-ins stop arriving. I owned
+backend auth and the server-side alerting pipeline. Code is private.
+
+`React Native` `Supabase` `Microsoft Entra ID` `pg_cron`
+
+</td>
+<td width="50%" valign="top">
+
+**[ChatSphere](https://github.com/hammadaiy/ChatSphere)**
+Personal project
+
+A ChatGPT-style interface built against a locally hosted LLM through LM
+Studio. First hands-on project with token-by-token streaming and
+context-window management.
+
+`React` `JavaScript` `LM Studio`
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## Stack
 
 **Languages & Frameworks**
-`TypeScript` `JavaScript` `Python` `React` `Next.js` `React Native` `Node.js` `FastAPI`
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,fastapi,express&theme=dark" />
 
 **Databases & Architecture**
-`PostgreSQL` `Supabase` `Prisma` `Redis` `Celery` `REST APIs` `Microsoft Entra ID`
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,redis&theme=dark" />
 
 **Tools & DevOps**
-`Docker` `Git` `GitHub Actions` `pytest-asyncio` `Expo` `Linux`
 
-I use AI-assisted tools, Claude Code, Cursor, Copilot, as part of my actual workflow, not
-just to speed up typing.
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,azure,figma&theme=dark" />
 
----
+*A few tools I use daily don't have dedicated icons yet: React Native, Expo, Celery,
+pytest-asyncio, and Microsoft Entra ID. Listed as text above where relevant.*
+
+I use AI-assisted tools, Claude Code, Cursor, Copilot, as part of my actual workflow.
+
+<br>
 
 ## GitHub stats
 
-![Hamad's GitHub stats](https://github-stats-extended.vercel.app/api?username=hammadaiy&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=hammadaiy&layout=compact&hide_border=true&langs_count=8)
+<div align="center">
 
----
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=hammadaiy&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hammadaiy&layout=compact&hide_border=true&langs_count=8&theme=default" />
+
+</div>
+
+<br>
 
 ## Outside of code
 
