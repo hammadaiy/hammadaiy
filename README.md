@@ -55,7 +55,7 @@ Lone-worker safety app built in an 8-person Scrum team. Monitors forestry
 machine operators and raises alerts if check-ins stop arriving. I owned
 backend auth and the server-side alerting pipeline. Code is private.
 
-`React Native` `Supabase` `Microsoft Entra ID` `pg_cron`
+`React Native` `Supabase` `pg_cron`
 
 </td>
 <td width="50%" valign="top">
